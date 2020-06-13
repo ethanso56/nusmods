@@ -19,7 +19,7 @@
     "fs-extra": "9.0.1",
     "http-graceful-shutdown": "2.3.2",
     "koa": "2.12.1",
-    "koa-router": "8.0.8",
+    "koa-router": "9.0.1",
     "koa-views": "6.3.0",
     "lodash": "4.17.15",
     "nodemon": "2.0.4",
